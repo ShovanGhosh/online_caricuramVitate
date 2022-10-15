@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-image: url("/img/pngtree-cracked-wooden-texture-background-wood-plane-image_310870.jpg");
+    background-blend-mode: overlay;
+    background-color: rgb(162, 218, 201);
+   
+}
+h3{
+    color:rgb(58, 172, 224)
+}
+table{text-align: center;}
+#grad {
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+  }

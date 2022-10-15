@@ -1,0 +1,7 @@
+<a onclick="this.setAttribute('href', 'https://v2.convertapi.com/convert/web/to/pdf?secret=YOUR_SECRET_HERE&download=attachment&url=' + encodeURI(window.location))" href="#">
+    Save page as PDF
+</a>
+
+<a onclick="this.setAttribute('href', 'https://v2.convertapi.com/convert/web/to/pdf?secret=YOUR_SECRET_HERE&download=attachment&url=' + encodeURI(window.location))" href="#">
+    Save page as PDF
+</a>
