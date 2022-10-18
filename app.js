@@ -18,6 +18,7 @@ app.get("/views/template1",function(req,res){
 app.get("/views/template2",function(req,res){
     res.sendFile(__dirname+"/views/template2.html");
 });
+
 /*app.get("/views/template3",function(req,res){
     res.sendFile(__dirname+"/views/template3.html");
 });*/
